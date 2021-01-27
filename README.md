@@ -1,2 +1,3 @@
-haha penis
-me makes raeadme file for penis haha lol
+this is a small GitTest
+
+me not doin anything lol
