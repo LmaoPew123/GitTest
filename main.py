@@ -16,3 +16,6 @@ def peepeeSize(name):
         print('Nuh dawg,you aint got it homie')
 
 peepeeSize(nameInput)
+
+
+input('Press ENTER to exit')
